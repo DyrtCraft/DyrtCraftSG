@@ -1,0 +1,5 @@
+dyrtcraft.survivalgames.lobby - Mozliwosc teleportowania sie do Lobby przy uzyciu /lobby
+dyrtcraft.survivalgames.lobby.admin - teleportacja kogos do Lobby
+dyrtcraft.survivalgames.lobby.set - Ustawianie punktu Lobby
+dyrtcraft.survivalgames.powiadomienia - Powiadomienia
+dyrtcraft.survivalgames.reload - Przeladowywanie config.yml
