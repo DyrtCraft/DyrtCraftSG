@@ -1,3 +1,4 @@
 DyrtCraftSG
 ===========
-Copyright © 2013 DyrtCraft Network All rights reserved.
+
+Plugin DyrtCraftSG jest wolnym oprogramowaniem dostępnym na licencji GNU GPL
